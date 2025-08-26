@@ -32,7 +32,7 @@ The **Babysetter Management System** is an innovative application designed to st
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/raihanulislam00/Babysetter_Management_System.git
+   git clone https://github.com/sajibsaj66/Babysetter_Management_System
 2. Open the project in Visual Studio.
 3. Build the project and run the application.
 
@@ -49,11 +49,9 @@ Contributions are encouraged! If you have ideas for improvements or features, pl
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any inquiries or feedback, please reach out to [raihanulislam652@gmail.com].
+For any inquiries or feedback, please reach out to [sajibsaj66@gmail.com].
 
 ## Acknowledgments
 Thank you to all contributors and users who provide feedback to improve this system.
-
----
 
 Feel free to modify any placeholders or sections to suit your project's specific details!
